@@ -1,5 +1,5 @@
 title: Mahfoud Boua
-logo: /images/LinkedInPhoto2.JPG
+logo: images/LinkedInPhoto2.JPG
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
@@ -8,9 +8,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
 # show_downloads: true
 theme: jekyll-theme-minimal
-
-
-LinkedInPhoto2.JPG
 markdown: kramdown
 kramdown:
   input: GFM # This tells Kramdown to parse GitHub Flavored Markdown
