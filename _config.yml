@@ -3,3 +3,9 @@ title: Mahfoud Bouad
 # description: text below image
 # show_downloads: true
 theme: jekyll-theme-minimal
+
+
+
+markdown: kramdown
+kramdown:
+  input: GFM # This tells Kramdown to parse GitHub Flavored Markdown
