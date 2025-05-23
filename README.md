@@ -39,11 +39,13 @@
 
 ## Projects
 ### Food Desert 
-[Github Link](images/fooddesert.jpeg)
+
+[Github Link](https://github.com/MahfoudBouad/portfolio/blob/main/FoodAccessAnalysis.ipynb)
+
 
 Short Description 
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Food Desert](/images/fooddesert.jpeg)
 
 
 
@@ -58,3 +60,36 @@ Short Description
 ### Biostatistical Analysis on Oxytocin Administration Routes Aug 2023 – Dec 2023
 - Performed comparative analysis of oxytocin administration routes on postpartum hemorrhage outcomes using t-tests and chi-square tests.
 - Developed a multiple linear regression model to assess the predictive power of various factors on postpartum hemoglobin levels.
+
+## Relevant Coursework
+
+### CS 4232 - Machine Learning & Data Mining  
+**University of Minnesota Duluth** | Spring 2024  
+- Explored foundational concepts and primary approaches within machine learning and data mining.
+- Studied decision trees, neural networks, support vector machines, and ensemble methods.
+- Utilized Python and associated libraries for the implementation of machine learning algorithms.
+
+### PUBH 6450 - Biostatistics  
+**University of Minnesota Twin Cities** | Fall 2023  
+- Analyzed fundamental concepts of exploratory data analysis and statistical inference.
+- Utilized statistical programming software (SAS) for data analysis.
+- Conducted hypothesis testing, ANOVA, regression, and nonparametric methods.
+
+### STAT 5511 - Regression Analysis  
+**University of Minnesota Duluth** | Spring 2023  
+- Conducted simple, polynomial, and multiple regression analyses using STATA.
+- Utilized matrix formulation for estimation, testing, and prediction in linear regression models.
+- Analyzed residuals and performed model selection and transformations.
+
+### STAT 5531 - Probability Models  
+**University of Minnesota Duluth** | Fall 2022  
+- Developed probability models and their applications to science and engineering.
+- Analyzed classical models such as binomial, Poisson, and exponential distributions.
+- Explored Markov processes and their applications.
+
+### STAT 5571 - Probability  
+**University of Minnesota Duluth** | Fall 2021  
+- Mastered fundamental probability axioms and applied them to analyze random variables and their distributions (discrete and continuous), establishing a strong theoretical foundation.
+- Investigated joint and conditional distributions, enabling the modeling of complex relationships between random variables and understanding their dependencies.
+- Examined key concepts of mathematical expectation, moments, and correlation, deepening understanding of statistical measures and their applications in data analysis, data science, statistical analysis, and modeling.
+
