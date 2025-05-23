@@ -39,9 +39,10 @@
 
 ## Projects
 ### Food Desert 
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[Github Link](images/fooddesert.jpeg)
 
 Short Description 
+
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 
