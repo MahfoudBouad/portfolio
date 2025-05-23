@@ -11,3 +11,4 @@ theme: jekyll-theme-minimal
 markdown: kramdown
 kramdown:
   input: GFM # This tells Kramdown to parse GitHub Flavored Markdown
+# image missing
