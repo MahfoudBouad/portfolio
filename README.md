@@ -64,7 +64,7 @@ As my capstone for the Savvy Coders Data Analytics + Python Bootcamp, this proje
 *   Effectively communicated complex mathematical concepts to diverse student groups, enhancing comprehension and engagement.
   
 ## Continuing Education
-*   Savvy Coders Data Analytics + Python Boot Camp – Completion 2025
+*   Savvy Coders Data Analytics + Python Boot Camp – 2025
 *   [Agile Certified Professional (ICP) - ICAgile](https://www.icagile.com/credentials/f7ac2b5d-1cac-45e5-90c5-d37e644d48f5) – 2025
 
 ## Education
@@ -92,13 +92,17 @@ As my capstone for the Savvy Coders Data Analytics + Python Bootcamp, this proje
 **University of Minnesota Duluth** | Spring 2024
 *   Explored foundational concepts in machine learning and data mining, including decision trees, neural networks, SVMs, and ensemble methods. Implemented algorithms using Python and associated libraries.
 
-### PUBH 6450 - Biostatistics
-**University of Minnesota Twin Cities** | Fall 2023
-*   Applied concepts of exploratory data analysis and statistical inference. Utilized SAS for hypothesis testing, ANOVA, regression, and nonparametric methods.
-
 ### STAT 5511 - Regression Analysis
 **University of Minnesota Duluth** | Spring 2023
 *   Conducted simple, polynomial, and multiple regression analyses using STATA. Utilized matrix formulation for estimation, testing, and prediction, including residual analysis and model selection.
+
+### STAT 5572 - Statistical Inference
+**University of Minnesota Duluth** | Spring 2023
+*   Dived deep in Mathematical statistics, Bayes' and maximum-likelihood estimators, and unbiased estimators, onfidence intervals and hypothesis testing(including likelihood ratio tests, most powerful tests, and goodness-of-fit tests)
+
+### PUBH 6450 - Biostatistics
+**University of Minnesota Twin Cities** | Fall 2023
+*   Applied concepts of exploratory data analysis and statistical inference. Utilized SAS for hypothesis testing, ANOVA, regression, and nonparametric methods.
 
 ### STAT 5531 - Probability Models
 **University of Minnesota Duluth** | Fall 2022
@@ -107,3 +111,4 @@ As my capstone for the Savvy Coders Data Analytics + Python Bootcamp, this proje
 ### STAT 5571 - Probability
 **University of Minnesota Duluth** | Fall 2021
 *   Mastered probability axioms, random variable distributions (discrete/continuous), joint/conditional distributions, mathematical expectation, moments, and correlation, establishing a strong theoretical foundation for advanced data analysis and modeling.
+
