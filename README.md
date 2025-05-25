@@ -42,7 +42,7 @@
 
 ### U.S. Food Access Analysis: Uncovering Complex Realities (2010)
 
-[GitHub Repository](https://github.com/MahfoudBouad/portfolio) | [Live Tableau Dashboard](https://public.tableau.com/app/profile/mahfoud.bouad/viz/FoodAccessAnalysis/NationalOverview)
+[GitHub Repository](https://github.com/MahfoudBouad/portfolio) | [Tableau Dashboard](https://public.tableau.com/app/profile/mahfoud.bouad/viz/FoodAccessAnalysis/NationalOverview)
 
 ![Food Desert](/images/fooddesert.jpeg)
 
