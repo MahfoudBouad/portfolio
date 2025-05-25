@@ -42,7 +42,7 @@
 
 ### U.S. Food Access Analysis: Uncovering Complex Realities (2010)
 
-[GitHub Repository](YOUR_GITHUB_PROJECT_LINK) | [Live Tableau Dashboard](YOUR_TABLEAU_PUBLIC_LINK_IF_AVAILABLE)
+[GitHub Repository](https://github.com/MahfoudBouad/portfolio) | [Live Tableau Dashboard](https://public.tableau.com/app/profile/mahfoud.bouad/viz/FoodAccessAnalysis/NationalOverview)
 
 As my capstone for the Savvy Coders Data Analytics + Python Bootcamp, this project analyzed 2010 U.S. food access, moving beyond "food desert" notions to explore the interplay between geographic access, socioeconomic factors, and health indicators using USDA and County Health Rankings data.
 
