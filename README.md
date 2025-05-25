@@ -64,7 +64,7 @@ As my capstone for the Savvy Coders Data Analytics + Python Bootcamp, this proje
 *   Effectively communicated complex mathematical concepts to diverse student groups, enhancing comprehension and engagement.
   
 ## Continuing Education
-*   Savvy Coders Data Analytics + Python Boot Camp – Expected Completion 2025
+*   Savvy Coders Data Analytics + Python Boot Camp – Completion 2025
 *   [Agile Certified Professional (ICP) - ICAgile](https://www.icagile.com/credentials/f7ac2b5d-1cac-45e5-90c5-d37e644d48f5) – 2025
 
 ## Education
