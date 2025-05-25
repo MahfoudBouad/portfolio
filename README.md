@@ -40,14 +40,33 @@
 ## Projects
 ### Food Desert 
 
-[Github Link](https://github.com/MahfoudBouad/portfolio/blob/main/FoodAccessAnalysis.ipynb)
+### U.S. Food Access Analysis: Uncovering Complex Realities (2010)
 
-
-Short Description 
+[GitHub Repository](https://github.com/MahfoudBouad/portfolio) | [Tableau Dashboard](https://public.tableau.com/app/profile/mahfoud.bouad/viz/FoodAccessAnalysis/NationalOverview)
 
 ![Food Desert](/images/fooddesert.jpeg)
 
+As my capstone for the Savvy Coders Data Analytics + Python Bootcamp, this project analyzed 2010 U.S. food access, moving beyond "food desert" notions to explore the interplay between geographic access, socioeconomic factors, and health indicators using USDA and County Health Rankings data.
 
+**Key Questions & Objectives:**
+*   Identified states/counties most impacted by Low Income & Low Access (LILA), by population and proportion.
+*   Compared LILA disparities in urban vs. rural areas.
+*   Analyzed correlations between Low Food Access Rate (LFA_Rate) and indicators like poverty, vehicle ownership, and health outcomes.
+
+**Methodology & Skills:**
+*   **SQL (SQLite):** Data wrangling, cleaning, and aggregation.
+*   **Python (Pandas, NumPy, Matplotlib):** In-depth EDA, metric calculation, correlation analysis, and initial visualizations.
+*   **Tableau:** Developed an interactive dashboard with maps, charts, and scatter plots to communicate findings and key correlations.
+
+**Core Insights:**
+*   The LFA_Rate (geographic proximity) showed surprisingly weak/no direct linear correlation with individual poverty or health indicators.
+*   Stronger relationships emerged between SNAP & Poverty (+0.69), and Child Poverty & Poor Health (+0.71).
+*   **Conclusion:** Food access is multifaceted; geographic proximity alone offers a limited view. This project highlighted the complex web of factors influencing food security.
+
+**Bootcamp Skills Applied:** Python for data manipulation (Pandas, NumPy), SQL for database querying, Tableau for insightful dashboarding, and comprehensive data analysis techniques.
+
+---
+*Tech Stack: SQL, Python (Pandas, NumPy, Matplotlib), Tableau*
 
 ## Academic Projects
 ### Multivariate Analysis of Bioaccumulation in Pueblo Reservoir Aug 2021 – July 2024
