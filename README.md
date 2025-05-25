@@ -44,6 +44,8 @@
 
 [GitHub Repository](https://github.com/MahfoudBouad/portfolio) | [Live Tableau Dashboard](https://public.tableau.com/app/profile/mahfoud.bouad/viz/FoodAccessAnalysis/NationalOverview)
 
+![Food Desert](/images/fooddesert.jpeg)
+
 As my capstone for the Savvy Coders Data Analytics + Python Bootcamp, this project analyzed 2010 U.S. food access, moving beyond "food desert" notions to explore the interplay between geographic access, socioeconomic factors, and health indicators using USDA and County Health Rankings data.
 
 **Key Questions & Objectives:**
@@ -65,15 +67,6 @@ As my capstone for the Savvy Coders Data Analytics + Python Bootcamp, this proje
 
 ---
 *Tech Stack: SQL, Python (Pandas, NumPy, Matplotlib), Tableau*
-
-[Github Link](https://github.com/MahfoudBouad/portfolio/blob/main/FoodAccessAnalysis.ipynb)
-
-
-Short Description 
-
-![Food Desert](/images/fooddesert.jpeg)
-
-
 
 ## Academic Projects
 ### Multivariate Analysis of Bioaccumulation in Pueblo Reservoir Aug 2021 – July 2024
