@@ -1,9 +1,9 @@
 title: Mahfoud Bouad
 logo: "/images/profilepic.png"
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
+#description: > # your text below (remove <br> elements if you don't need line breaks)
+  #First description 
+  #<br><br>
+  #Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/mahfoudbouad/">View My LinkedIn Profile</a>
 # show_downloads: true
