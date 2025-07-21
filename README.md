@@ -77,6 +77,14 @@ As my capstone for the Savvy Coders Data Analytics + Python Bootcamp, this proje
 *   Cleaned and transformed complex environmental data, applying Box-Cox normalization to ensure data accuracy for subsequent analysis.
 *   Identified distinct patterns in trace element bioaccumulation across trophic levels by applying multivariate statistical techniques (PCA, Factor Analysis, Cluster Analysis) in R, contributing to the environmental understanding of the reservoir.
 
+**Abstract**
+
+This study investigates the accumulation patterns of 18 trace elements across different trophic levels within the Pueblo Reservoir ecosystem in Colorado, USA. The reservoir, located downstream of the historic Leadville Mining District, serves as an ideal site to study the impact of trace element contamination on aquatic life. Utilizing data from previous research, this study uses principal component analysis (PCA), fac-
+tor analysis, and K-means clustering to analyze the concentrations of trace elements in various organisms on different trophic levels. The results reveal distinct patterns of accumulation, with certain elements exhibiting higher concentrations in higher trophic levels, suggesting biomagnification. Some other elements, however, are predominantly found in lower trophic levels. These findings underscore the importance of understanding trophic interactions and factors in assessing the ecological and human health risks associated with trace element contamination.
+
+**Keywords**: Trace Elements, Bioaccumulation, Multivariate Analysis, Principal Component Analysis (PCA), Factor Analysis, K-means Clustering, Trophic Levels,
+Biomagnification, Ecological Risk, Human Health Risk, Pueblo Reservoir
+
 ### Analyzing the Pima Indians Diabetes Dataset with Machine Learning | Jan 2024 - May 2024
 *   Conducted predictive modeling on the Pima Indians Diabetes Dataset using Logistic Regression and Artificial Neural Networks.
 *   Enhanced model performance through Principal Component Analysis (PCA) for dimensionality reduction.
