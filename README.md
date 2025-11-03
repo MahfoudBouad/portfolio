@@ -1,3 +1,5 @@
+layout: default
+
 # Data Analyst Portfolio
 
 ## Professional Summary
