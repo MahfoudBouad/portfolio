@@ -19,7 +19,6 @@ Capstone project analyzing USDA and County Health Rankings data to explore socio
 **Skills**: SQL · Python · Tableau · Data Visualization · Public Health Analytics  
 [GitHub Repo](https://github.com/LOLIBN/portfolio) | [Tableau Dashboard](https://public.tableau.com/app/profile/LOL.IBN/viz/FoodAccessAnalysis/NationalOverview)
 
-[GitHub Repository](https://github.com/MahfoudBouad/portfolio) | [View SQL Scripts](https://github.com/MahfoudBouad/portfolio/blob/main/sql_scripts.sql) | [Tableau Dashboard](https://public.tableau.com/app/profile/mahfoud.bouad/viz/FoodAccessAnalysis/NationalOverview)
 ---
 
 ### Bioaccumulation in Pueblo Reservoir  
