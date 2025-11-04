@@ -1,17 +1,4 @@
 ---
-layout: home
-title: "Loco Lol"
-hero:
-  image: /images/profilepic.png
-  title: "Data Analyst"
-  subtitle: "MS in Mathematical Sciences · SQL · Python · Tableau"
-  actions:
-    - label: "View Resume"
-      url: /resume/
-    - label: "Projects"
-      url: /projects/
----
-
 # Data Analyst Portfolio
 
 ## Professional Summary
