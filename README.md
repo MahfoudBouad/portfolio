@@ -1,3 +1,17 @@
+---
+layout: home
+title: "Loco Lol"
+hero:
+  image: /images/profilepic.png
+  title: "Data Analyst"
+  subtitle: "MS in Mathematical Sciences · SQL · Python · Tableau"
+  actions:
+    - label: "View Resume"
+      url: /resume/
+    - label: "Projects"
+      url: /projects/
+---
+
 # Data Analyst Portfolio
 
 ## Professional Summary
@@ -5,11 +19,11 @@ Data Analyst with a Master’s in Mathematical Sciences and a strong foundation 
 
 ---
 
-## Projects
+## Featured Projects
 
 ### U.S. Food Access Analysis (2010 Data)  
 **Feb 2025 – May 2025 | Savvy Coders**  
-![Food Access Dashboard Snippet](/images/fooddesert.jpeg)
+![Food Access Dashboard Snippet](/images/fooddesert.jpeg)  
 Capstone project analyzing USDA and County Health Rankings data to explore socioeconomic drivers of food insecurity.  
 - SQL for data wrangling and aggregation across 3,000+ counties  
 - Python (Pandas, NumPy, Matplotlib) for EDA and correlation analysis  
@@ -17,7 +31,7 @@ Capstone project analyzing USDA and County Health Rankings data to explore socio
 - Found strong correlations between SNAP participation and poverty (+0.69), and child poverty and poor health (+0.71)  
 - Concluded geographic proximity alone is insufficient to define food insecurity  
 **Skills**: SQL · Python · Tableau · Data Visualization · Public Health Analytics  
-[GitHub Repo](https://github.com/LOLIBN/portfolio) | [Tableau Dashboard](https://public.tableau.com/app/profile/LOL.IBN/viz/FoodAccessAnalysis/NationalOverview)
+[GitHub Repo](https://github.com/<your-username>/portfolio) · [Tableau Dashboard](https://public.tableau.com/app/profile/LOL.IBN/viz/FoodAccessAnalysis/NationalOverview)
 
 ---
 
@@ -108,14 +122,14 @@ Conducted cross-country regression analysis using STATA to identify links betwee
 ## Education
 
 - **MS in Mathematical Sciences (Statistics Focus)** – University of Minnesota Duluth – Jul 2024  
-- **BA in Mathematical Sciences & IT** – Westminster College, MO – May 2018  
+- **BA in Mathematical Sciences & IT** – Westminster College, MO – May 2018
 
 ---
 
 ## Certifications
 
 - **Savvy Coders Data Analytics + Python Bootcamp** – May 2025  
-- **ICAgile Certified Professional (ICP)** – May 2025  
+- **ICAgile Certified Professional (ICP)** – May 2025
 
 ---
 
@@ -125,7 +139,19 @@ Conducted cross-country regression analysis using STATA to identify links betwee
 - Regression · ANOVA · PCA · Clustering · Hypothesis Testing  
 - Machine Learning · Neural Networks · Logistic Regression  
 - Git/GitHub · Agile · Jira · Data Cleaning · Data Visualization
+
+---
+
 ## Resources
 
-- [SQL Scripts for Food Access Analysis](https://github.com/MahfoudBouad/portfolio/blob/main/sql_scripts.sql)
-- [Coursework Summary](https://github.com/MahfoudBouad/portfolio/blob/main/course_summary.md)
+- [SQL Scripts for Food Access Analysis](https://github.com/<your-username>/portfolio/blob/main/sql_scripts.sql)  
+- [Coursework Summary](https://github.com/<your-username>/portfolio/blob/main/course_summary.md)
+
+---
+
+## Contact
+
+- **LinkedIn**: <a href="https://www.linkedin.com/in/locolo/" target="_blank">https://www.linkedin.com/in/locolo/</a>  
+- **GitHub**: https://github.com/<your-username>
+
+---

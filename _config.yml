@@ -1,12 +1,69 @@
-title: Mahfoud Bouad
-logo: "/images/profilepic.png"
+# Site
+title: Loco Lol
 description: >
-  <a href="https://www.linkedin.com/in/mahfoudbouad/" target="_blank">LinkedIn Profile</a>
-# show_downloads: true
-#theme: jekyll-theme-minimal
-theme: jekyll-theme-cayman
-google_analytics: 11256291933 # your Google Analytics tracking ID here
-#theme: jekyll-theme-dinky
+  <a href="https://www.linkedin.com/in/locolo/" target="_blank">LinkedIn Profile</a>
+baseurl: ""        # set to "/portfolio" if you publish to username.github.io/portfolio
+url: "https://<your-username>.github.io"  # replace <your-username>
+
+# Theme (Minimal Mistakes via remote_theme for GitHub Pages)
+remote_theme: mmistakes/minimal-mistakes
+theme: null
+
+# Logo and visuals
+logo: "/images/profilepic.png"
+
+# Markdown and permalinks
 markdown: kramdown
 kramdown:
-  input: GFM # This tells Kramdown to parse GitHub Flavored Markdown
+  input: GFM
+permalink: /:categories/:title/
+
+# Collections (optional; leave but not required for single-README usage)
+collections:
+  projects:
+    output: true
+    permalink: /projects/:title/
+
+# Author / repository
+author:
+  name: "Loco Lol"
+  avatar: "/images/profilepic.png"
+repository: "https://github.com/<your-username>/portfolio"  # replace <your-username>
+
+# Plugins (no additional plugin required for GitHub Pages default)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Minimal Mistakes options (sensible defaults)
+minimal_mistakes_skin: "default"
+minimal_mistakes_collection_layout: "archive"
+paginate: 6
+
+# Navigation (example)
+nav:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "Resume"
+    url: /resume/
+  - title: "Contact"
+    url: /contact/
+
+# Social links
+social:
+  - title: "LinkedIn"
+    url: "https://www.linkedin.com/in/locolo/"
+  - title: "GitHub"
+    url: "https://github.com/<your-username>"
+
+# Analytics (replace or remove)
+google_analytics: "UA-XXXXX-Y"
+
+# Exclude common local files from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
