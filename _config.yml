@@ -1,9 +1,10 @@
 title: Mahfoud Bouad
 logo: "/images/profilepic.png"
 description: >
-  <a href="https://www.linkedin.com/in/Locolol/" target="_blank">LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/mahfoudbouad/" target="_blank">LinkedIn Profile</a>
 # show_downloads: true
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 google_analytics: 11256291933 # your Google Analytics tracking ID here
 #theme: jekyll-theme-dinky
 markdown: kramdown
