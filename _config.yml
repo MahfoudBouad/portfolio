@@ -1,5 +1,5 @@
 # Site
-title: Loco Lol
+title: Mahfoud Bouad
 description: >
   <a href="https://www.linkedin.com/in/locolo/" target="_blank">LinkedIn Profile</a>
 baseurl: ""        # set to "/portfolio" if you publish to username.github.io/portfolio
@@ -26,7 +26,7 @@ collections:
 
 # Author / repository
 author:
-  name: "Loco Lol"
+  name: "Mahfoud Bouad"
   avatar: "/images/profilepic.png"
 repository: "https://github.com/<your-username>/portfolio"  # replace <your-username>
 
