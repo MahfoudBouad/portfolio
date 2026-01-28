@@ -2,24 +2,24 @@
 # Data Analyst Portfolio
 
 ## Professional Summary
-Data Analyst with a Master’s in Mathematical Sciences and a strong foundation in statistical modeling, data visualization, and public-sector analytics. Skilled in Python, SQL, Tableau, R, SAS, and STATA, with experience analyzing complex datasets across public health, education, and environmental domains. Adept at translating technical insights into actionable strategies for institutional growth and policy impact.
+Aspiring data analyst with a Master’s in Mathematical Sciences and a background in statistical modeling, data visualization, and public-sector analytics. Project-based experience with AWS and Snowflake, as well as Python, SQL, and R, involving the development of cloud-based data pipelines and the application of statistical methods to complex datasets. Developing the ability to translate technical findings into clear insights to support institutional policy and decision-making.
 
 ---
 
 ## Featured Projects
 
-### U.S. Food Access Analysis (2010 Data)  
-**Feb 2025 – May 2025 | Savvy Coders**  
-![Food Access Dashboard Snippet](/images/fooddesert.jpeg)  
-Capstone project analyzing USDA and County Health Rankings data to explore socioeconomic drivers of food insecurity.  
-- SQL for data wrangling and aggregation across 3,000+ counties  
-- Python (Pandas, NumPy, Matplotlib) for EDA and correlation analysis  
-- Tableau dashboard visualizing disparities by geography and demographics  
-- Found strong correlations between SNAP participation and poverty (+0.69), and child poverty and poor health (+0.71)  
-- Concluded geographic proximity alone is insufficient to define food insecurity  
-**Skills**: SQL · Python · Tableau · Data Visualization · Public Health Analytics  
-[GitHub Repo](https://github.com/<your-username>/portfolio) · [Tableau Dashboard](https://public.tableau.com/app/profile/LOL.IBN/viz/FoodAccessAnalysis/NationalOverview)
+### U.S. Food Access and Health Equity: Cloud Data Pipeline
 
+**Savvy Coders | February 2025 – May 2025**
+Implemented a full-stack cloud data engineering solution to analyze socioeconomic drivers of food insecurity across 3,000+ U.S. counties.
+
+* **Data Engineering:** Developed a serverless ETL pipeline using AWS Glue (PySpark) to transform raw USDA datasets into optimized Apache Parquet format.
+* **Data Warehousing:** Engineered a Snowflake environment featuring external stages, automated data loading (COPY INTO), and optimized SQL views for health-risk priority classification.
+* **Hybrid Architecture:** Established a dual-engine query layer utilizing AWS Athena for ad-hoc exploration and Snowflake for high-concurrency business intelligence.
+* **Visualization:** Designed an interactive Amazon QuickSight dashboard to quantify the "Food Access Health Gap," identifying a 2% increase in obesity rates within low-access regions.
+* **Infrastructure Management:** Managed resource lifecycles across multiple AWS regions, ensuring cost-efficient operations and adherence to security best practices.
+**Skills:** AWS (Glue, S3, Athena), Snowflake, PySpark, Amazon QuickSight, SQL, Data Engineering.
+[GitHub Repo](https://github.com/<your-username>/portfolio) · [Tableau Dashboard](https://public.tableau.com/app/profile/LOL.IBN/viz/FoodAccessAnalysis/NationalOverview)
 ---
 
 ### Bioaccumulation in Pueblo Reservoir  
@@ -136,9 +136,6 @@ Conducted cross-country regression analysis using STATA to identify links betwee
 
 ---
 
-## Contact
-
-- **LinkedIn**: <a href="https://www.linkedin.com/in/locolo/" target="_blank">https://www.linkedin.com/in/locolo/</a>  
-- **GitHub**: https://github.com/<your-username>
 
 ---
+
