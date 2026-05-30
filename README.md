@@ -56,11 +56,11 @@ Collaborated with team to identify optimal locations for eco-friendly fertilizer
 
 ### Postpartum Hemorrhage Outcomes Analysis  
 **Aug 2023 – Dec 2023 | University of Minnesota Duluth**  
-Evaluated clinical outcomes based on oxytocin administration routes using SAS and Power BI.  
+Evaluated clinical outcomes based on oxytocin administration routes using SAS.  
 - Conducted t-tests, chi-square tests, and multiple regression modeling  
-- Built Power BI dashboard to visualize Shock Index and hemorrhage risk  
+- Built dashboard to visualize Shock Index and hemorrhage risk  
 - Identified key predictors of postpartum hemoglobin levels  
-**Skills**: SAS · Power BI · Regression · Biostatistics · Data Visualization · Clinical Analytics
+**Skills**: SAS · Regression · Biostatistics · Data Visualization · Clinical Analytics
 
 ---
 
